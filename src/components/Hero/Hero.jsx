@@ -38,7 +38,9 @@ function Hero() {
       </div>
       <div className="info">
         <h1>
-          Aman Rajput
+          Aman 
+          <br/>
+          Rajput
         </h1>
         <h2>Frontend Developer</h2>
         <span>
@@ -65,3 +67,6 @@ function Hero() {
 }
 
 export default Hero;
+
+
+
